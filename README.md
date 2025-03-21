@@ -1,4 +1,4 @@
-# Github-Documentation-With-Doxygen
+# Github-Documentation-With-Doxygen-and-CI
 
 Automatically deploy your documentation of your project without any CI pipelines. This is achieved by using github actions along with github pages.
 
