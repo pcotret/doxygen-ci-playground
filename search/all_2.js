@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['ci_0',['Github-Documentation-With-Doxygen-and-CI',['../index.html',1,'']]],
-  ['configuring_20automatic_20publishing_20using_20github_20actions_1',['Configuring automatic publishing using github actions',['../index.html#autotoc_md2',1,'']]]
+  ['documentation_20setup_0',['Doxygen - Documentation Setup',['../index.html#autotoc_md1',1,'']]],
+  ['documentation_20with_20doxygen_20and_20ci_1',['Github-Documentation-With-Doxygen-and-CI',['../index.html',1,'']]],
+  ['doxygen_20and_20ci_2',['Github-Documentation-With-Doxygen-and-CI',['../index.html',1,'']]],
+  ['doxygen_20documentation_20setup_3',['Doxygen - Documentation Setup',['../index.html#autotoc_md1',1,'']]]
 ];

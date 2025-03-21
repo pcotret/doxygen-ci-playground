@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['setup_0',['Doxygen - Documentation Setup',['../index.html#autotoc_md1',1,'']]]
+  ['with_20doxygen_20and_20ci_0',['Github-Documentation-With-Doxygen-and-CI',['../index.html',1,'']]]
 ];

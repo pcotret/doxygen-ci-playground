@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['_5f_5finit_5f_5f_0',['__init__',['../classmain_1_1_py_class.html#a61ff724d9b64b6270724b3e610813c28',1,'main::PyClass']]]
+  ['add_0',['Add',['../class_my_namespace_1_1_my_class.html#a0b3e267e738ade6e0ce7581bf6c877df',1,'MyNamespace::MyClass']]],
+  ['addpoint_1',['addPoint',['../main_8c.html#aeac5059557ab0a2396d269856d599446',1,'main.c']]]
 ];
